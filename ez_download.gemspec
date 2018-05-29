@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.version     = EzDownload::VERSION
   s.authors     = ["Oscar Alvarez"]
   s.email       = ["oscar.alvarez.8830@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of EzDownload."
-  s.description = "TODO: Description of EzDownload."
+  s.summary     = "Download files easily."
+  s.description = "Use the Download::open method to download and open a file from a remote URL"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
